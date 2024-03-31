@@ -1,0 +1,7 @@
+Cyber security is the practice of defending systems, networks, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes. Cyber security includes a set of technologies, processes, and practices designed to protect networks, devices, programs, and data from attack, damage, or unauthorized access.
+
+Cyber security is essential for businesses of all sizes to protect sensitive data and customer information. It’s also important to protect networks and systems from damaging viruses, malware, and other malicious software. Cyber security also helps to ensure that systems and networks are running optimally.
+
+Cyber security is composed of multiple layers of protective technology. These include firewalls, antivirus software, intrusion detection systems, encryption, and other security measures. These measures work together to protect networks and systems from outside threats.
+
+In addition to implementing protective technologies, organizations should have a comprehensive cyber security plan in place. This plan should include policies and procedures for responding to cyber security incidents, as well as employee education and training on cyber security best practices. Organizations should also take steps to ensure that systems and networks are regularly updated and patched to reduce the risk of attacks.

@@ -1,0 +1,7 @@
+Problem solving is an essential skill when it comes to navigating through our day-to-day lives. It involves identifying a problem, breaking it down into manageable pieces, and then finding a solution. By understanding the basics of problem solving, we can develop strategies that will help us to address complex issues and make informed decisions.
+
+Data structures are used to efficiently store and retrieve data. They can be used in problem solving to help break down complex problems into smaller, simpler pieces. By understanding and utilizing data structures, we can develop efficient algorithms and create solutions that are more effective and easier to maintain.
+
+Algorithms are sets of instructions designed to solve a specific problem. They can be used in problem solving to help identify steps and processes to reach a solution. By utilizing algorithms, we can develop more organized and efficient solutions to problems.
+
+Once a solution has been identified, it is important to analyze its effectiveness. This involves looking at the results, testing the solution, and making any adjustments needed to improve accuracy and efficiency. By analyzing solutions, we can develop better problem solving strategies and identify areas for improvement.

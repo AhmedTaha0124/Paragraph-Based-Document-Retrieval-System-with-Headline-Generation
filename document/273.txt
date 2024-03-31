@@ -1,0 +1,7 @@
+Object-oriented programming (OOP) is a popular programming paradigm that has become increasingly popular over the past few decades. It is a programming style that is based on the concept of data objects, which are self-contained pieces of data that contain both the data and the functions that can be used to manipulate that data. OOP provides many benefits, including increased code reusability, better scalability, and improved code readability.
+
+A key concept in OOP is the class, which is a template or blueprint that defines the characteristics and behavior of a specific type of object. Each instance of a class is called an object. In OOP, objects interact with each other by sending and receiving messages. This allows objects to communicate and interact with each other, which is one of the key benefits of OOP.
+
+Encapsulation is another important concept in OOP. It is the process of combining data and functions into a single unit, which is known as an object. Encapsulation helps to reduce complexity by hiding data and functions from the external world. This allows developers to focus on the functionality of the objects and not have to worry about the underlying data.
+
+Inheritance and polymorphism are two other important concepts in OOP. Inheritance allows developers to create relationships between classes, which allows for code reuse. Polymorphism is the ability of an object to take on multiple forms, which is useful for creating code that is more flexible and easier to maintain.

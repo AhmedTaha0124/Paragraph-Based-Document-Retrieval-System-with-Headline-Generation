@@ -1,0 +1,7 @@
+Data structures and problem solving are two essential concepts that are used to develop efficient algorithms. By understanding these concepts, developers can design algorithms to solve problems efficiently and effectively. Such algorithms are essential for improving the performance of a system and are used in various fields such as artificial intelligence, computer graphics, and robotics.
+
+Problem solving is the process of creating a plan to solve a problem or achieve a goal. It involves thinking of a logical sequence of steps to arrive at a solution. Problem solving skills involve the ability to analyze a problem, come up with various solutions, and choose the best one.
+
+Data structures are the building blocks of algorithms. Different types of data structures are used to store and process data in efficient ways. Common data structures include arrays, linked lists, stacks, and queues. Each type of data structure has its own strengths and weaknesses, so it is important to choose the best data structure for a particular problem.
+
+In order to solve a problem efficiently, it is important to combine problem solving and data structure concepts. By understanding the problem and the type of data involved, developers can choose the right data structure and algorithm to solve the problem. This helps to ensure that the algorithm is both efficient and effective in solving the problem.

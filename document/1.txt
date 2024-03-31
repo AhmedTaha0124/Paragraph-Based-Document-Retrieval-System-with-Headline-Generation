@@ -1,0 +1,7 @@
+Data engineering is the process of ingesting, processing, and storing large amounts of data to enable data-driven decision making. It involves the use of data warehousing, data integration, data mining, and machine learning techniques to analyze data and extract valuable insights. Data engineering is essential for organizations that rely on data to make decisions and run their businesses. 
+
+Data warehousing is the process of collecting and storing large amounts of data from multiple sources for easy access and analysis. Data warehouses provide a single repository for storing data from multiple sources and in different formats. This helps to reduce the complexity of data analysis and makes it easier to query and extract useful insights.
+
+Data mining is the process of discovering patterns and correlations in large datasets. It involves applying data mining algorithms to uncover hidden insights and trends in the data. Data mining can be used to identify customer segmentation, identify target markets, and uncover relationships between different data points.
+
+Machine learning is the use of algorithms to analyze large datasets and make predictions or decisions. It involves the application of algorithms to data sets to uncover patterns and relationships. Machine learning can be used to automate many data engineering tasks and improve the accuracy and speed of data analysis.

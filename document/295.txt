@@ -1,0 +1,13 @@
+2. The Benefits of Encapsulation and Abstraction
+
+3. Modularity and Reusability in Programming
+
+4. Managing Complexity with Object Oriented Programming
+
+Object oriented programming (OOP) is a powerful methodology for creating complex software applications. OOP is based on the concept of objects, which are self-contained pieces of code that contain data and the operations that can be performed on them. By combining objects, developers can create programs with complex behavior. OOP makes it easier to break complex problems into manageable pieces, and it provides a way to structure the code so that multiple developers can work on the same application.
+
+Encapsulation and abstraction are two important concepts in object oriented programming. Encapsulation allows the programmer to hide the inner workings of a class from the outside world. This makes it easier to make changes to the code without affecting the behavior of other parts of the program. Abstraction allows the programmer to focus on the functionality of a class without worrying about the details of how it works. These two concepts help make OOP a powerful and flexible tool for designing software.
+
+Modularity and reusability are two important principles in OOP. Modularity allows the programmer to break complex problems down into smaller, independent pieces. This makes it easier to debug and maintain the code, and it also allows for code reuse. Reusability allows the programmer to use existing code in new applications, making the development process faster and more efficient.
+
+Object oriented programming is a great tool for managing complexity. By breaking down complex problems into simpler pieces, the programmer can create code that is easier to understand and maintain. OOP also helps the programmer keep track of the various objects in a program, making it easier to find and fix bugs. Finally, object oriented programming makes it easier to test and debug code, which is essential for creating robust and reliable applications.

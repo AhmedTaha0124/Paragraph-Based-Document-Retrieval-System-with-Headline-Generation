@@ -1,0 +1,7 @@
+Software testing is a process that involves executing a software component or system to evaluate its functionality and performance. It is an important part of software development life cycle, which helps to identify any errors, gaps or missing requirements in comparison to the actual requirements. It also ensures that the delivered product meets the customer's expectations and is of high quality.
+
+Software testing can be classified into various types such as unit testing, integration testing, system testing, acceptance testing, regression testing, smoke testing, functionality testing, performance testing, security testing, etc. Each type has its own purpose and can be used to achieve desired results while minimizing the risk of failure in production.
+
+Software testing helps to identify errors, gaps and missing requirements at an early stage. This helps to reduce the cost of development and avoid any major risks in the future. It also helps to increase the quality of the software product, as it verifies that the product meets the customer's expectations.
+
+Software testing can be a complex process and often require specialized skills and expertise. It can also require a lot of time and resources to test all the functionalities of the software product. Additionally, it is not always possible to test all the scenarios and it is easy to miss out on certain scenarios.

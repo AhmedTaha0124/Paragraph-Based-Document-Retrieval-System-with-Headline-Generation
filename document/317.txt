@@ -1,0 +1,7 @@
+Problem solving is a vital skill for any software developer. Analyzing a problem to identify its components and understand its underlying structure is the first step to creating an efficient solution. Understanding the data structures and algorithms used to solve the problem is key to developing a successful solution.
+
+Data structures are an important part of problem solving. Using the right data structure for a given problem can significantly reduce the complexity of the solution and improve its performance. Knowing when to use a linked list, array, stack, or tree can make the difference between a solution that takes hours to complete and one that's completed in seconds.
+
+Algorithmic complexity is the measure of how long a given algorithm takes to complete its task. Knowing the complexity of an algorithm is important for determining which algorithm is best for solving a particular problem. Understanding how the complexity of an algorithm can be reduced by using different data structures is also important in order to achieve optimal performance.
+
+Data structures and algorithms are the building blocks of any successful software solution. By mastering problem solving techniques and applying them to data structures and algorithms, software developers can create efficient solutions that are both fast and reliable. Additionally, understanding the principles of problem solving and data structures can help developers create solutions that are more maintainable and easier to modify in the future.

@@ -1,0 +1,7 @@
+Data warehouse is a centralized repository of integrated data from multiple sources. It is used for reporting and analysis of the data. Data warehouse stores current and historical data from different operational systems and provides a unified view of the data. It is designed to handle large volumes of data and provide quick response time to analytical queries.
+
+Data warehouse provides a single version of truth which helps in data analysis and decision making. It helps in providing a consolidated view of data from multiple sources and systems. Data warehouse also helps in identifying trends and patterns in data which in turn helps in forecasting future trends.
+
+Data warehouse architecture consists of three layers: Data sources, Staging area and Data warehouse. Data sources are the source systems from which data is extracted and stored in staging area. The staging area is a temporary storage area where the data is cleansed and transformed before loading into data warehouse. The data warehouse is the final repository where the integrated data is stored and used for reporting and analysis.
+
+Data warehouse technologies include ETL (Extract, Transform and Load) tools, OLAP (Online Analytical Processing) tools, data mining tools, reporting tools, ETL testing tools and data visualization tools. These tools help in extracting, transforming, loading and analyzing large volumes of data. They also help in creating reports, dashboards and data visualizations.

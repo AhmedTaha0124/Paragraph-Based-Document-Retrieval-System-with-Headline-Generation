@@ -1,0 +1,15 @@
+Title: Introduction to Data Warehousing
+
+A data warehouse is a system used for reporting and data analysis, and is considered a core component of business intelligence. It is a database designed to enable business users to analyze data from multiple sources. The data is typically extracted from operational systems and transformed into a consistent format for storage and access.
+
+Title: Benefits of Data Warehousing
+
+Data warehousing offers a number of advantages that make it an attractive option for businesses. It provides a single source of truth, which enables organizations to access and analyze data quickly and accurately. Data warehouses also allow for easier data integration from multiple sources, as well as the ability to store data for longer periods of time.
+
+Title: Challenges of Data Warehousing
+
+Despite the many advantages of data warehousing, there are also some challenges associated with it. Data warehouses can be difficult and costly to maintain, and require a substantial investment in hardware and software. Additionally, data warehouses can be prone to data corruption and require frequent updates to ensure accuracy.
+
+Title: Understanding Data Warehouse Architecture
+
+The architecture of a data warehouse is a key element in its success. It is a multi-tier architecture, consisting of a presentation tier, application tier, and a data tier. The presentation tier is responsible for user interface, while the application tier provides access to the data and the data tier stores the data. The data tier is composed of data marts, which are organized into subject areas for easier access.

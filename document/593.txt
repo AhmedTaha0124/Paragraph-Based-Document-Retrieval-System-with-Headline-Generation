@@ -1,0 +1,9 @@
+1. What is a Chatbot? 
+
+Chatbot is a computer program designed to simulate conversation with human users, especially over the internet. It is an artificial intelligence technology that uses natural language processing (NLP) to interpret user queries and provide intelligent responses. Chatbots are used in various applications, such as customer service, online shopping, gaming, and even healthcare.
+
+Language Modeling (LM) is a field of Natural Language Processing (NLP) which focuses on predicting the probability of a sequence of words. It is used to create language models that can generate text based on a given context. LM is used in many applications such as text summarization, question answering, machine translation, and speech recognition.
+
+Chatbots and language modeling are closely related because chatbots are powered by language models. Language models provide the intelligence to the chatbot to understand user input and generate appropriate responses. To create an effective chatbot, developers must create a language model that is able to accurately interpret user queries and provide appropriate responses.
+
+Chatbots and language models offer many advantages to users. They can save time and money by streamlining customer service and other tasks. They can also provide better customer experience and engagement. In addition, language models can help to create more natural and accurate conversations with users. This in turn helps to improve customer satisfaction and loyalty.

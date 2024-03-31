@@ -1,0 +1,7 @@
+Software testing is a process used to identify the correctness, completeness, and quality of developed computer software. It includes a set of activities conducted with the intent of finding errors in software so that it can be corrected before the product is released to customers. Software testing can be done manually or with the use of automated tools.
+
+Software testing can be classified into two main types: functional testing and non-functional testing. Functional testing focuses on verifying that the software functions as expected and that it meets the requirements of the user. Non-functional testing focuses on aspects such as usability, reliability, performance, and security.
+
+Software testing provides many benefits, including increased quality and reliability of the software, improved customer satisfaction, and cost savings. It also helps to reduce the risk of potential problems, as errors can be identified and addressed before the product is released.
+
+Software testing can be a challenging process due to the complexity of the software and the amount of time it takes to test all features. There are also the challenges of choosing the right testing tools, writing effective test cases, and dealing with ever-changing requirements.

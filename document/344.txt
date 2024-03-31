@@ -1,0 +1,5 @@
+2. Understanding How Problem Solving and Data Structures Work 
+
+3. Applying Problem Solving and Data Structures to Real-World Problems 
+
+4. Utilizing Problem Solving and Data Structures for Maximum Efficiency

@@ -1,0 +1,7 @@
+Object Oriented Programming (OOP) is a programming paradigm that uses objects, data, and functions, to create programs. It focuses on objects and their properties and behaviors, and encapsulates data and functionality into individual objects. OOP is used to structure programs so that they are easier to maintain and extend.
+
+The main advantage of OOP is its ability to model real-world problems. OOP allows for a better understanding of the problem and the ability to design programs that are more intuitive and easier to manage. OOP also provides the ability to reuse code and build more flexible and extensible applications.
+
+Object Oriented Programming can be complex and difficult to understand. It also requires a considerable amount of time and effort to design and implement an object-oriented program. Furthermore, due to the abstraction of data, there is potential for data to be lost or corrupted.
+
+Object Oriented Programming is used in a variety of applications, such as web development, game development, and mobile app development. It is also used in the development of enterprise software, such as customer relationship management and enterprise resource planning systems. OOP is also used in the development of embedded systems and robotics.

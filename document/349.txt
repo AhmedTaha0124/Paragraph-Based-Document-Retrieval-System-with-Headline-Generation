@@ -1,0 +1,5 @@
+2. Data Structures: Understanding the Benefits of Data Structures
+
+3. Analyzing Problems: Strategies for Effective Problem Analysis
+
+4. Designing Solutions: Crafting Solutions to Problems with Data Structures

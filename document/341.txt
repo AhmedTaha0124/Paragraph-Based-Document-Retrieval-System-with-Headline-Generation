@@ -1,0 +1,7 @@
+Problem solving and data structure are fundamental concepts that are essential to programming. They provide the tools to develop efficient solutions to complex problems and help to organize and store data in a meaningful way. With a thorough understanding of these concepts, one can create powerful and effective algorithms that can be used to solve a variety of problems.
+
+When approaching a problem, it is important to have an effective strategy in place. This involves breaking down the problem into manageable pieces and understanding the various components of the problem. Once the problem is understood, one can determine the best method of solving the problem and develop the appropriate algorithm.
+
+Data structures are used to store and organize data in a way that is efficient and easy to access. The two main types of data structures are linear and non-linear. Linear data structures such as arrays and linked lists provide an effective way of storing and retrieving data. Non-linear data structures such as trees and graphs provide a more complex way of organizing data.
+
+Learning problem solving and data structure is essential for anyone looking to become a successful programmer. It provides a solid foundation for understanding the fundamentals of programming and allows a programmer to develop powerful algorithms and efficient solutions to complex problems. With a thorough understanding of problem solving and data structure, one can become a more effective and productive programmer.

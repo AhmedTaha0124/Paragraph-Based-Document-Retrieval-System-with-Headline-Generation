@@ -1,0 +1,7 @@
+Problem solving is an invaluable skill for any individual. It helps to develop logical thinking, resilience, and creative problem solving skills. It is an important tool for both personal and professional development. Problem solving also helps to reduce stress, as it provides an effective means to identify and address potential issues before they become unmanageable.
+
+Problem solving can be divided into two broad categories: structured and unstructured. Structured problem solving involves applying a specific set of steps to identify and address an issue. Unstructured problem solving is more open-ended and involves utilizing creative thinking and intuition to find solutions.
+
+Data structures are the building blocks of any software program. They allow for efficient storage and retrieval of data. Understanding data structures is essential for successful problem solving, as it enables the individual to more quickly identify and address potential issues.
+
+Once an individual understands the basics of problem solving and data structures, they can begin to apply them in practice. This requires developing strategies to identify potential issues, analyzing the data, and then selecting the most appropriate solution. With practice, problem solving and data structures can become an invaluable tool for any individual.

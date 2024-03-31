@@ -1,0 +1,7 @@
+Object-oriented programming (OOP) is a programming paradigm that focuses on objects and their interactions with one another. It is a powerful concept that can be used to create complex software applications. OOP involves concepts such as classes, objects, methods, and data encapsulation, which all work together to create a cohesive programming structure.
+
+The cornerstone of OOP is the concept of classes and objects. A class is a blueprint for creating objects. It is a template for creating objects that all share common characteristics. An object is an instance of a class. It is an individual item that has been created using the class as a blueprint. 
+
+Data encapsulation is a concept used in OOP that allows for the storage of related data and methods in one location. It is a powerful tool to keep data safe from outside interference and misuse. By using this concept, programmers can control the flow of data and protect it from unwanted access.
+
+Polymorphism is the ability of an object to take on multiple forms. It is a key concept in OOP as it allows objects to be defined with a single interface that can be used to interact with different types of objects. This concept can be used to create code that is more efficient and easier to maintain.

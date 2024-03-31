@@ -1,0 +1,7 @@
+A chatbot is a computer program or artificial intelligence which conducts a conversation via auditory or textual methods. Chatbots are often used in online customer service to quickly answer common questions, or to help customers find information.
+
+A language model is a probability distribution over sequences of words. It is used to predict the next word in a sequence based on the words that have already been said. Language models are used in natural language processing tasks such as speech recognition, machine translation, and text summarization.
+
+Chatbots and language models are becoming increasingly popular due to their ability to provide a more natural and efficient way of interacting with customers. By using language models, chatbots can understand natural language more accurately and provide better customer service. In addition, language models can be used to generate more natural-sounding responses, making the conversation feel more natural and human-like.
+
+Chatbot and language model development is a complex process that requires a deep understanding of both natural language processing and artificial intelligence. Additionally, language models require large amounts of data to be effective, which can be difficult to obtain. Furthermore, the accuracy of language models can be difficult to measure, making it difficult to know when the model is performing correctly.

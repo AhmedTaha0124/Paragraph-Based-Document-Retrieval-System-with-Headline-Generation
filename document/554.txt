@@ -1,0 +1,7 @@
+Chatbots are computer programs that simulate conversation with users through text or audio. They are able to respond to questions and carry out tasks such as booking tickets, providing customer service, or providing information. Chatbots are increasingly being used in a variety of industries to provide customers with access to information or services they need.
+
+Language Modeling is a technique used in Natural Language Processing (NLP) to predict the probability of words or phrases being used in a given context. It is used to generate text, to understand the meaning of words, and to determine the sentiment of a sentence. Language models are used in chatbots to predict the most likely response given a certain user input.
+
+Chatbots and language modeling are used together to provide a more natural conversation experience for users. By using language models, chatbots are able to understand user input, generate appropriate responses, and converse with users in a more natural manner. This allows chatbots to provide a better customer experience and helps reduce task completion time for customers.
+
+The use of chatbots and language modeling provides several benefits. It reduces customer service costs, increases customer satisfaction, and allows users to interact with a chatbot in a more natural way. Furthermore, it allows businesses to automate mundane tasks, resulting in increased efficiency and productivity. Finally, chatbots and language modeling can facilitate better customer understanding, enabling businesses to quickly respond to customer needs.

@@ -1,0 +1,7 @@
+Embedded systems are computer systems designed to perform specific tasks. They are often found in everyday items such as mobile phones, televisions, watches, automobiles, and many other consumer products. Embedded systems are used to control, monitor, and communicate with the device they are installed in. Embedded systems are programmed using specialised software and hardware tools to perform specific tasks.
+
+An embedded system consists of hardware components such as a microprocessor, memory, input/output (I/O) devices, and software components such as an operating system, application programs, and device drivers. The hardware and software components are integrated to perform the desired functionality.
+
+Embedded systems can be divided into two main types: real-time and non-real-time. Real-time embedded systems are used for applications requiring quick response times, such as in medical devices or industrial automation. Non-real-time embedded systems are used for applications that do not require quick response times, such as in consumer electronics.
+
+Embedded systems offer numerous benefits. They allow for cost-effective solutions, as they are typically less expensive than traditional computer systems. Additionally, embedded systems are more reliable and require less maintenance than traditional computer systems. Finally, embedded systems are more power-efficient compared to traditional computer systems, allowing them to be used in applications where power consumption is limited.

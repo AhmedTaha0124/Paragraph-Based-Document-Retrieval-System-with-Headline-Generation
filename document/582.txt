@@ -1,0 +1,7 @@
+A chatbot is a computer program designed to simulate conversation with human users, especially over the Internet. It is an artificial intelligence technology that allows users to communicate with an automated system in natural language.
+
+Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to understand and interact with human language. It involves analyzing, understanding, and generating natural language in a way that is meaningful to computers. NLP enables machines to understand language through a series of algorithms and rules.
+
+An LLM or a “Legal Language Model” is an artificial intelligence model that is specifically designed to understand and process legal language. It uses natural language processing and deep learning techniques to read and interpret legal documents, identify key concepts and points of law, and provide actionable advice.
+
+LLMs can help lawyers to efficiently and effectively process large volumes of legal documents and provide accurate legal advice. By leveraging NLP and other AI technologies, LLMs can quickly and accurately analyze legal documents and provide legal advice tailored to the individual needs of the lawyer. LLMs can also assist lawyers in understanding the implications of legal documents and the law in a timely manner.

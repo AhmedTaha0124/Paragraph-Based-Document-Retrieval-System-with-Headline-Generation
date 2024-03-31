@@ -1,0 +1,7 @@
+A chatbot is a computer program which simulates a conversation or interaction with a user through the use of text or voice commands. Chatbots are designed to understand and respond to human input in a meaningful way, and are used increasingly in customer service, marketing, and other applications.
+
+Language modeling is a subfield of natural language processing (NLP) that is concerned with the development of algorithms and models to process and understand natural language. Language modeling can be used to generate text, identify the sentiment of text, and extract meaning from text.
+
+The use of chatbot and language modeling technology can help improve customer service, reduce costs, and increase efficiency. Additionally, chatbots and language models can enable companies to provide personalized experiences for their customers, helping them build a stronger relationship with their customers. 
+
+While chatbot and language models can provide many benefits, they also have some limitations. For example, chatbots and language models are limited in their ability to understand natural language and may not be able to accurately interpret user input. Additionally, there is a need for continuous improvement and development of chatbot and language model technology.

@@ -1,0 +1,7 @@
+Embedded systems are computer systems designed to perform a specific task or set of tasks within a larger system. They are typically found in everyday items such as televisions, washing machines, cell phones, and aircraft. Embedded systems are used to control, monitor, and communicate with the user. They are often custom designed and programmed to perform their specific task efficiently and accurately.
+
+Embedded systems offer many advantages over other computer architectures. They are typically more reliable, efficient, and cost-effective. In addition, they can be used in applications where space and power requirements are limited. Embedded systems also provide greater flexibility in design due to their ability to be customized for specific tasks.
+
+Although embedded systems offer many advantages, they can also be challenging to design and implement. Designers must consider the system's hardware components, software requirements, and power requirements. Additionally, the system must be tested to ensure that it meets the desired performance criteria.
+
+Embedded systems are used in a wide variety of applications. They are used in automotive systems to control fuel injection, braking, and other components. They are also used in medical devices to monitor vital signs and control drug delivery. Additionally, they are used in consumer electronics such as phones, tablets, and digital TVs.

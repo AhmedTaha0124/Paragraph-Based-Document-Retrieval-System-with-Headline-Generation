@@ -1,0 +1,7 @@
+An embedded system is a combination of hardware and software components that are designed to perform a specific task. These systems are often found in consumer electronics such as cell phones, televisions, and home appliances. They are also found in industrial equipment and automobiles. Embedded systems are programmed to interact with the environment, collect and process data, and provide output based on the input received.
+
+The two main components of an embedded system are the hardware and the software. The hardware consists of the processors, memory, and input/output devices. The software is the code written to control the hardware and communicate with the outside world. This code can be written in assembly language, C, or C++.
+
+Embedded systems offer several advantages over traditional systems. They are typically cheaper than traditional systems, require less power, and are more reliable. Additionally, these systems can operate independently, allowing for greater control and customization of the system.
+
+Embedded systems are limited by the hardware and software available. The processor and memory in the system are limited, so the system is not able to do as many tasks as a traditional system. Additionally, embedded systems are typically difficult to modify and debug, making them less user-friendly.

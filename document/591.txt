@@ -1,0 +1,7 @@
+Chatbots are computer programs designed to simulate human conversation. They use text-based or voice-based interactions to communicate with humans, and are designed to answer customer questions, give recommendations, and automate customer service tasks. Chatbots can be used for customer service, lead generation, and more.
+
+An LLM, or Legal Master’s Degree, is a postgraduate degree program designed to give students a deeper understanding of the law. The program typically requires a year of full-time study, where students specialize in a specific field of law. LLM programs are offered by many law schools, and can be taken online or in a traditional classroom setting.
+
+Chatbots and LLM can work together to provide legal advice and assistance to customers. For example, a chatbot could be used to answer basic legal questions and provide resources, while an LLM could be used to provide more in-depth legal advice. This could help reduce the workload on attorneys, while also providing customers with easy access to legal advice.
+
+By combining chatbots and LLM, organizations can provide customers with better access to legal advice and resources. This could help customers make better decisions, while also reducing the time and effort required to provide the same level of legal advice. Additionally, the use of chatbots and LLM could help reduce the cost of providing legal services, making them more accessible to customers.

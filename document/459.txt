@@ -1,0 +1,7 @@
+Security is a key factor in networking. Networks need to be protected from unauthorized access, data interception, and malicious attacks. Security measures such as firewalls, antivirus software, and encryption techniques are used to protect the network from these threats. In addition, authentication methods such as passwords and biometrics are used to verify the identity of users attempting to access the network.
+
+Network design plays an important role in achieving a secure network environment. An effective network design begins by understanding the user requirements and then using that information to build a secure network architecture. This includes selecting the appropriate hardware and software, and implementing the necessary security protocols.
+
+Network monitoring is an essential part of maintaining a secure network. It involves monitoring the network for any suspicious or malicious activity. Network monitoring tools such as packet sniffers, intrusion detection systems, and vulnerability scanners are used to detect and prevent security threats.
+
+Risk management is an important part of network security. It involves identifying and assessing the risks associated with the network, and then implementing measures to mitigate those risks. This includes creating and implementing security policies, and performing regular security audits.

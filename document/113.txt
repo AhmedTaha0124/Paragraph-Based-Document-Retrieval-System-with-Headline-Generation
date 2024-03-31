@@ -1,0 +1,9 @@
+1. What is a Data Warehouse? 
+
+A data warehouse is a system used for reporting and data analysis, and is considered a core component of business intelligence. Data warehouses are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place that are used for creating analytical reports for workers throughout the enterprise.
+
+Data warehousing is used to store and analyze large amounts of data from multiple sources. It allows businesses to organize data in a way that is easy to access, manage, and update. Data warehousing is used in a variety of industries, including finance, healthcare, and retail. Data warehousing is used for creating reports, analyzing customer trends, optimizing inventory, and improving decision-making.
+
+Data warehousing helps businesses make informed decisions by providing them with relevant and up-to-date data. This data can be used to identify customer trends, optimize inventory, and improve customer service. Data warehousing also helps businesses save time and money by automating the process of collecting and analyzing data from multiple sources.
+
+Data warehousing can be expensive and time-consuming to set up and maintain. Additionally, data warehouses require a large amount of data storage space and dedicated personnel to manage and update the system. Data warehouses can also be vulnerable to security breaches, which can lead to the loss of confidential data.

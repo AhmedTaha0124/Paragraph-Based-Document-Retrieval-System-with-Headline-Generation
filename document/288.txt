@@ -1,0 +1,7 @@
+Object-oriented programming (OOP) is a type of programming that focuses on the use of objects and their interactions with other objects. OOP is widely used in software development, allowing developers to create complex applications by writing code that interacts with objects. OOP provides a number of advantages, including improved code organization, an increase in code reusability, easier debugging, and the ability for multiple developers to work on the same codebase.
+
+At the heart of OOP lies the concept of classes and objects. Classes are templates that define the properties and behavior of an object. This includes both the data associated with an object and the functions that can be performed on it. Objects are individual instances of a class, and can be treated as an individual entity within a program.
+
+Inheritance is a powerful concept in OOP that allows developers to create a hierarchy of objects. By creating a base class that defines the properties of a certain type of object, developers can then create child classes that inherit the properties of the parent class. This allows for a greater degree of code reuse and organization, and helps to eliminate duplicate code.
+
+Polymorphism is another core concept of OOP. Polymorphism allows objects of different types to share the same properties and functions. This allows for a greater degree of code reuse and flexibility, as a developer can create code that is agnostic of the specific type of object it is interacting with.

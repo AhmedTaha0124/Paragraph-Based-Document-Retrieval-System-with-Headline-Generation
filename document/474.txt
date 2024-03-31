@@ -1,0 +1,7 @@
+Firewalls are an important part of any network security system. They are designed to protect a network from malicious traffic and any unauthorized access. Firewalls act as the first line of defense against external threats, and provide a way to control and monitor traffic between a network and the outside world. Firewalls can be either hardware based or software based, and can be configured to provide different levels of security.
+
+Network segmentation is a security measure that is used to isolate certain parts of a network from the rest of the network. This helps to reduce the attack surface of the network, as well as limit the damage that can be done in the event of a security breach. Network segmentation can also be used to control access to certain resources, such as sensitive data.
+
+Passwords are an important part of network security, and it is important to ensure that they are kept secure. Strong passwords should be used, and they should be changed regularly. It is also important to use different passwords for different accounts, to ensure that if one password is compromised, other accounts are not affected.
+
+Network encryption is a security measure that is used to protect data from being intercepted or accessed by unauthorized users. Encryption involves encoding data in such a way that it can only be decrypted by a person who has the appropriate key. Network encryption is important for protecting data in transit, and for providing an additional layer of security to data that is stored on a network.

@@ -1,0 +1,7 @@
+Object-oriented programming (OOP) is a programming paradigm that uses objects and their associated data and methods to design and develop software. OOP offers several advantages over traditional programming approaches, making it a popular choice for developers. Benefits of OOP include increased code reusability, modularity, extensibility, maintainability, readability and scalability.
+
+In object-oriented programming, classes and objects are used to represent real-world entities within software. A class is a blueprint, or template, for creating objects, and an object is an instance of a class. Classes contain methods and data fields that define the properties and behavior of the objects they create. 
+
+Inheritance and polymorphism are two of the core concepts of object-oriented programming. Inheritance allows classes to inherit the characteristics of parent classes. This helps reduce code duplication and allows for code reuse. Polymorphism allows objects to take on different forms depending on the context in which they're used. 
+
+Encapsulation and abstraction are two other core concepts of OOP. Encapsulation is the process of hiding data and behavior within an object, allowing classes to be self-contained and reusable. Abstraction is the process of hiding implementation details from the user, allowing them to interact with objects without worrying about how they work.

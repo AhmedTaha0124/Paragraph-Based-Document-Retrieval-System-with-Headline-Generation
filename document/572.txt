@@ -1,0 +1,7 @@
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone. Chatbots are used in a variety of situations including customer service, information retrieval, and simple entertainment.
+
+Natural Language Processing (NLP) and Machine Learning (ML) are two technologies that are used to create smarter chatbots. NLP helps the chatbot understand what the user is saying by breaking down sentences into individual words and phrases, while ML enables the chatbot to learn from conversations and improve its responses over time.
+
+A Language Generation Model (LGM) is a type of AI system that can generate natural language text from structured data. This is done using a combination of natural language processing and machine learning techniques. LGM is used to create chatbots, virtual assistants, and other natural language-based applications. 
+
+LGMs offer many advantages when it comes to creating chatbots. They allow for more natural and fluid conversations between the user and the chatbot, as well as the ability to generate more complex and varied responses. LGMs also enable chatbots to learn from conversations and improve their responses over time.

@@ -1,0 +1,7 @@
+A chatbot is a computer program designed to simulate conversation with human users, especially over the Internet. Chatbots are often used in customer service and marketing applications, such as virtual assistants and online ordering systems.
+
+LLM stands for Legal Language Model, which is a type of artificial intelligence (AI) that can generate legal documents using natural language processing (NLP). LLM systems are trained on a large corpus of legal documents to learn the language of law and generate legal documents from scratch.
+
+Chatbots and LLMs are both powerful tools that can help streamline processes and reduce costs. Chatbots can be used to automate customer service tasks, such as responding to customer inquiries or providing helpful information. LLMs can be used to generate accurate legal documents quickly and efficiently, saving time and money compared to manually drafting documents.
+
+Although chatbots and LLMs can be extremely useful, there are some limitations to consider. Chatbots are limited in their ability to understand complex human conversations. LLMs are also limited in their ability to interpret legal documents accurately, as the language of law is complex and subject to interpretation. As such, both chatbots and LLMs should be used in conjunction with human input in order to ensure accuracy.
